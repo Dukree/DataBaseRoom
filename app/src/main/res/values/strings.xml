@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RoomDataBase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="diagnosis">Диагноз</string>
+    <string name="add_patient">Добавить пациента</string>
+
+    <string name="LastName">Фамилия:</string>
+    <string name="Age">Возраст:</string>
+    <string name="Diagnosis">Диагноз:</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="age_id">37</string>
+    <string name="diagnosis_id">Diagnosis</string>
+    <string name="FirstName">Имя:</string>
+    <string name="text" />
+</resources>
